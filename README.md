@@ -1,8 +1,4 @@
-Got it ✅ — you want the **same flow as the Indonesian version** (Description → Installation → Configuration → FAQ → Screenshots → Changelog → Credits) but written in **English**, and still using **emoji and formatting** like your earlier styled version.
 
-Here’s the full English version with the requested flow:
-
----
 
 # Xendit MotoPress Integration
 
@@ -134,6 +130,6 @@ Highlight **Xendit** as a payment method.
 
 * **Hotel Booking System**: [MotoPress Hotel Booking](https://motopress.com/products/hotel-booking/)
 * **Payment Gateway**: [Xendit](https://xendit.co/)
-* **Developed by**: Muhammad Iqbal Basagili (codeirawan)
+* **Developed by**: Muhammad Zahir Raffaza (codeirawan)
 
 ---
